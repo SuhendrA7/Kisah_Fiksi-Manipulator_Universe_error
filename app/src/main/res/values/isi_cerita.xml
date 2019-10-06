@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="isi_cerita">
+        <item>
+            icons
+        </item>
+        <item>
+            tes
+        </item>
+        <item>
+           tes
+        </item>
+    </string-array>
+</resources>
